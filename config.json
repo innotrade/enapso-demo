@@ -1,0 +1,20 @@
+{
+  "host": "http://localhost",
+  "uploadOntologyInfo": {
+    "fileName": "./ontologies/EnapsoTest.owl",
+    "format": "application/rdf+xml",
+    "context": "http://ont.enapso.com/test"
+  },
+  "templateData": {
+    "name": "readPredicateValues",
+    "iri": "http://ont.enapso.com/sparql-template#SPARQLTemplate_4e580dfd-1ecc-4f54-9986-51202b7416c6",
+    "template": "`select ?iri ?predicateValue where { ?iri ${predicate} ?predicateValue. }`"
+  },
+  "variableData": {
+    "name": "predicate",
+    "iri": "http://ont.enapso.com/sparql-template#TemplateVariable_4e580dfd-1ecc-4f54-9986-23456788765"
+  },
+  "executeVariable": {
+    "predicate": "http://www.w3.org/2000/01/rdf-schema#label"
+  }
+}
