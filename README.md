@@ -6,9 +6,10 @@ This repository contains scripts and documentation for setting up and running th
 
 Before running the setup scripts, ensure that you have the following:
 
-- Docker installed and running on your machine
-- Docker Compose installed
-- Git installed
+- Docker installed and running on your machine (version 20.10 or above)
+  - To check your Docker version, open your command prompt or terminal and enter: `docker --version`
+- Internet connection to pull the Docker image from the repository
+- Credentials for the ENAPSO free platform (see instructions below)
 
 ## Getting Started
 
@@ -37,41 +38,41 @@ Before running the setup scripts, ensure that you have the following:
 
    Replace `[username]` with your username and `[access_token]` with your personal access token.
 
-3. Clone this repository to your local machine:
-
-   ```
-   git clone https://github.com/innotrade/enapso-demo.git
-   ```
-
-4. Navigate to the cloned repository:
-
-   ```
-   cd enapso-demo
-   ```
-
-5. Pull the ENAPSO free platform Docker image:
+3. Pull the latest version of the ENAPSO free platform Docker image:
 
    ```
    docker pull registry.innotrade.com/innotrade/enapso-together-free
    ```
 
-6. Run the ENAPSO free platform using Docker Compose:
+   Note: When running the pull command, if an image is already running and you pull the latest one, it will overwrite existing data in the knowledge graph repository, resetting it to the default state. To avoid losing your data, create a backup before pulling the latest image and restore your data afterward.
+
+4. Run the Docker container to deploy the platform locally:
 
    ```
-   docker-compose up -d
+   docker run -p 80:80 registry.innotrade.com/innotrade/enapso-together-free
    ```
 
-   This command will start the ENAPSO free platform in detached mode.
+   This command maps the container's port 80 to your local machine's port 80.
 
-7. Wait for the platform to start up. You can check the status of the containers using:
+   If you encounter a port conflict, you can map the container's internal port (80) to a different port on your host. For example, to use port 8080:
 
    ```
-   docker-compose ps
+   docker run -p 8080:80 registry.innotrade.com/innotrade/enapso-together-free
    ```
 
-   Once the platform is up and running, proceed to the next step.
+5. Clone this repository to your local machine:
 
-8. Run the setup script for your operating system:
+   ```
+   git clone https://github.com/innotrade/enapso-demo.git
+   ```
+
+6. Navigate to the cloned repository:
+
+   ```
+   cd enapso-demo
+   ```
+
+7. Run the setup script for your operating system:
 
    - For macOS and Linux:
 
@@ -92,7 +93,7 @@ Before running the setup scripts, ensure that you have the following:
    - Create CRUD templates for the `EditorialObject` class
    - Set up REST routes for the CRUD operations
 
-9. Once the setup script completes successfully, you can access the ENAPSO media demo using the following URLs:
+8. Once the setup script completes successfully, you can access the ENAPSO media demo using the following URLs:
 
    - ENAPSO Platform: `http://localhost/enapso-dev/`
    - GraphDB Management API: `http://localhost/enapso-dev/graphdb-management/`
@@ -105,7 +106,6 @@ The repository is organized as follows:
 - `ontologies/`: Contains the ontology file (`ebucoreplus_ontology.ttl`)
 - `demo-data/`: Contains the demo data file (`editorialObject_demoData.ttl`)
 - `scripts/`: Contains the setup scripts for macOS/Linux and Windows
-- `docker-compose.yml`: Docker Compose configuration file for running the ENAPSO free platform
 
 ## Troubleshooting
 
