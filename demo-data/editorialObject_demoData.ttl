@@ -1,0 +1,394 @@
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/Asset_37f6d90c-87c9-4c1f-9a46-ff1102f9bd8a>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#Asset>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#hasRelatedEditorialObject> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_0ded0f89-6df8-4a2b-8f02-eae1843b6bbf> .
+  
+  
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_0ded0f89-6df8-4a2b-8f02-eae1843b6bbf>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A groundbreaking film with a pulsating soundtrack and a unique narrative style.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A woman must find 100,000 Deutschmarks in 20 minutes to save her boyfriend.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Lola receives a frantic phone call from her boyfriend, Manni, who lost a bag full of money belonging to a mobster. She has 20 minutes to find the money and save him.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A thrilling race against time.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Shot on location in Berlin, featuring high-energy sequences and innovative editing.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_e71db945-bf31-4463-95e4-672a4bbb10c9>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_24155f72-790d-4856-a493-211f179d8501>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_63a7a64d-ce00-48f6-9880-3a2c698c662e>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Run Lola Run" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_b4025d74-7c9f-42de-bc3d-4fa244d1d16c>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "An Oscar-winning film that explores the impact of surveillance on both the watched and the watcher.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A Stasi officer becomes emotionally involved with the people he is spying on.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Set in East Berlin, 1984, an officer of the secret police is tasked with spying on a playwright and his lover, but begins to sympathize with them.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A gripping tale of surveillance and humanity.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Berlin, capturing the oppressive atmosphere of the GDR.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_eb62264f-700b-433a-b4b4-3c9360d826b1>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_92dc8354-06a9-41ae-b2df-776c2e00898a>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_db9436b0-3ee7-419b-88bd-a6d7992c95e1>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The Lives of Others" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_a03dc02a-8ede-4e73-9abd-6d627ca1d7cc>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A touching comedy-drama that highlights the personal impact of political change.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A young man must protect his fragile mother from learning that her beloved East Germany has disappeared.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "After his mother falls into a coma and misses the fall of the Berlin Wall, Alex must keep her from finding out that her socialist paradise has vanished.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A sons elaborate ruse to protect his mother.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Shot in Berlin, using archival footage to blend reality with fiction.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_b3988dc5-35e4-413b-9b0c-58bd4e5c4f2b>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_e3d68bb0-1ac7-45f4-8945-619bbcf79cd7>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#isScheduledOn> <http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_1f46f4f2-de80-4a7b-8bbe-6e4002bd6900>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Good Bye Lenin!" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_a4f4d154-85c9-460f-bf57-84683d461e26>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A powerful and controversial film, notable for Bruno Ganzs portrayal of Hitler.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A dramatization of the last days in Hitlers bunker during the Battle of Berlin.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "The film portrays the final ten days of Adolf Hitlers life from his bunker as the Allies close in on Berlin.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "The final days of Hitlers regime.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in various locations to recreate the claustrophobic atmosphere of the Führerbunker.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Downfall" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_2328f6eb-1986-40ed-8812-702355070b1d>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "An influential film that set the standard for future sci-fi movies.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "In a futuristic city sharply divided between the working class and the city planners, the son of the citys mastermind falls in love with a working-class prophet.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Metropolis is set in a futuristic urban dystopia and follows the attempts of Freder, the wealthy son of the city’s ruler, and Maria, a poor worker, to overcome the vast gulf separating the classes of their city.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A silent-era masterpiece of science fiction.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Directed by Fritz Lang, with groundbreaking special effects and set designs.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Metropolis" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_0a57fdfa-fe27-40fe-8145-3e65020e7038>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A beautiful and contemplative film by Wim Wenders.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "An angel tires of overseeing human activity and wishes to become human when he falls in love with a mortal.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Set in Berlin, two angels, Damiel and Cassiel, observe and comfort the citys residents. Damiel, however, longs to experience human emotions and eventually falls in love with a circus performer.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "An angels journey through human emotions.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Berlin, featuring poetic cinematography by Henri Alekan.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Wings of Desire" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_31d07a81-dd5e-4027-9a08-03754bfa39f7>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A gripping and realistic war film directed by Wolfgang Petersen.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The story of a German U-boat crews harrowing experiences during World War II.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Das Boot follows a German U-boat crew during the Battle of the Atlantic. The film depicts the crew’s rigorous and often monotonous life, the claustrophobic conditions, and the eventual breakdown of the submarine.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "An intense portrayal of life aboard a German U-boat.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in a claustrophobic set that realistically depicts the interior of a submarine.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Das Boot" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_d0925161-c53b-440b-b5fb-b970170d1b1b>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A chilling examination of the roots of fascism directed by Michael Haneke.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Strange events in a German village before World War I suggest a brewing atmosphere of authoritarianism.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Set in a small German village in 1913-1914, the film follows the lives of the villagers as mysterious events and accidents begin to unfold, hinting at a society on the brink of disaster.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A haunting prelude to the horrors of the 20th century.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Shot in stark black and white to emphasize the bleakness of the time.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The White Ribbon" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_2ad2a9c4-0ddf-4217-a5a9-62a7bb51dd57>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A haunting film that explores themes of identity, betrayal, and forgiveness.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A disfigured Holocaust survivor undergoes surgery and sets out to find her husband, who may have betrayed her to the Nazis.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "After surviving Auschwitz, a disfigured woman undergoes facial reconstruction surgery and returns to post-war Berlin in search of her husband, who may have been complicit in her betrayal.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A story of identity and deception post-World War II.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in post-war Berlin settings, capturing the devastated yet resilient spirit of the city.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Phoenix" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_9e312b0f-ed38-44c2-9342-85311d44f133>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A seminal work in the thriller genre, showcasing Peter Lorres unforgettable performance.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A city hunts for a child murderer who becomes the target of both the police and the criminal underworld.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "In Berlin, a serial killer who preys on children is pursued by both the police and the criminal underworld. The film delves into the psyche of the killer and the moral dilemmas faced by those hunting him.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A chilling portrait of a serial killer.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Directed by Fritz Lang, featuring groundbreaking use of sound and shadow.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "M" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_37072861-1849-46d0-b57c-353b003e75c6>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A unique and heartfelt comedy-drama about family and the absurdities of life.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A practical joker father tries to reconnect with his hard-working daughter by posing as her CEOs life coach.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Winfried, a retired music teacher and prankster, decides to reconnect with his estranged daughter Ines by creating an outrageous alter ego named Toni Erdmann and showing up at her workplace.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A father-daughter relationship is tested by an elaborate prank.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Bucharest and Germany, capturing both the corporate and personal worlds.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Toni Erdmann" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_11d5b3e8-5e0e-4f2c-b396-cfa94a7916bc>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "An exhilarating cinematic experience that immerses viewers in the immediacy of the action.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A young Spanish woman living in Berlin is drawn into a dangerous heist after a night out with new friends.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Shot in one continuous take, Victoria follows a young woman over a two-hour period as she meets a group of men at a nightclub and is gradually drawn into a bank robbery.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A breathtaking single-take thriller.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in a single, continuous take across various locations in Berlin.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Victoria" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_642a9bf0-9f25-4778-bb82-213a2402e367>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A powerful and surreal film by Werner Herzog, featuring a legendary performance by Klaus Kinski.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A Spanish expedition in search of El Dorado is led by a man driven to the brink of insanity.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "In the 16th century, Spanish conquistadors led by the obsessed and power-hungry Aguirre embark on a perilous journey through the Amazon jungle in search of the mythical city of gold, El Dorado.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A descent into madness in the heart of the Amazon.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed on location in the Amazon rainforest, capturing the harsh and stunning environment.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Aguirre, the Wrath of God" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_bfd61298-bae4-439a-b933-0e4ea24d1e32>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A poignant and quirky film by Werner Herzog, exploring themes of displacement and the pursuit of happiness.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A German ex-convict and two misfits move to rural America in search of a better life, only to encounter disillusionment.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "After being released from prison, Bruno Stroszek, an alcoholic street performer, and his elderly friend Scheitz, along with a prostitute named Eva, emigrate to Wisconsin in search of a new beginning, but their American dream turns into a nightmare.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A tragicomic tale of an outsider in America.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Berlin and rural Wisconsin, juxtaposing the stark contrasts between the two worlds.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Stroszek" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_00411a3b-2175-4910-abf1-f37f250e9937>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A tense and beautifully shot film directed by Christian Petzold.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A doctor in East Germany is exiled to a rural hospital as punishment for applying for an exit visa.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "In 1980s East Germany, Dr. Barbara Wolff is punished for applying for an exit visa by being transferred to a rural hospital. While planning her escape, she becomes increasingly drawn to her work and a fellow doctor.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A suspenseful drama set in East Germany.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in rural East Germany, capturing the stark realities of life under the GDR.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Barbara" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_6bd4af1b-853a-4a3c-be3b-48df33dc53e7>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A landmark in horror cinema, known for its eerie visuals and haunting atmosphere.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "An unauthorized adaptation of Bram Stokers Dracula, featuring the iconic vampire Count Orlok.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "This silent film tells the story of Count Orlok, a vampire who moves to the town of Wisborg and brings terror to its inhabitants. It follows the efforts of Thomas Hutter and his wife, Ellen, to stop the vampire.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A silent horror classic.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Directed by F.W. Murnau, featuring expressionistic cinematography and chilling performances.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Nosferatu" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_43995fc6-b3c6-4c77-8025-4dbfc0c186a4>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "An acclaimed film that won the Palme dOr and the Academy Award for Best Foreign Language Film.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A boy in 1920s Germany refuses to grow up as a form of protest against the adult world.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Based on the novel by Günter Grass, the film follows Oskar Matzerath, a boy who decides to stop growing at the age of three as a form of protest against the injustices and absurdities of the adult world.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "An allegorical tale of resistance and rebellion.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in various locations across Germany, depicting the historical and social changes of the time.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The Tin Drum" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_a31c6007-56e2-4250-9c99-3155c1b4aad5>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A powerful and controversial film that examines the motives and impact of the RAF.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The story of the Red Army Faction, a West German militant group, and their campaign of violence during the 1970s.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "The film chronicles the formation and activities of the Red Army Faction (RAF), focusing on its key members, their radicalization, and their acts of terrorism against the West German government and institutions.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A gripping account of the rise of a terrorist group.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in various locations in Germany, capturing the tumultuous atmosphere of the 1970s.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The Baader Meinhof Complex" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_a47f75f2-5729-4b29-9879-cfbfb295f749>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "An Oscar-winning film that highlights the moral dilemmas faced by those involved in the operation.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Jewish prisoners in a concentration camp are forced to produce counterfeit currency for the Nazis.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Based on a true story, the film follows Salomon Sally Sorowitsch, a master counterfeiter who is forced to help the Nazis in Operation Bernhard, an attempt to destabilize the British economy by flooding it with fake currency.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "The true story of the largest counterfeiting operation in history.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Austria and Germany, depicting the harrowing conditions of the concentration camps.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The Counterfeiters" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_1b0768f5-6130-4069-b7a3-6a39be041e36>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A thought-provoking film that explores how easily fascist ideologies can take root.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A high school teachers experiment to demonstrate the rise of fascism spirals out of control.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "In a German high school, a teachers experiment to teach his students about autocracy turns dangerously real as the students begin to adopt authoritarian behaviors and symbols.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A chilling experiment in authoritarianism.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Germany, capturing the tense and escalating atmosphere of the classroom.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "The Wave" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_bd5d1f59-d471-46ad-b7e5-4be08db78e4e>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A heartwarming and humorous film directed by Fatih Akin.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The owner of a struggling restaurant tries to turn his luck around with the help of an eccentric chef.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Zinos, the owner of a run-down restaurant in Hamburg, tries to revitalize his business with the help of a brilliant but unpredictable chef, while dealing with personal and professional challenges.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "A feel-good comedy about food, love, and friendship.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed in Hamburg, showcasing the citys vibrant culinary and cultural scenes.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Soul Kitchen" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/EditorialObject_ae6b2623-08ff-4388-ab6e-2cd766f1b9ef>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#EditorialObject>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#comments> "A legendary film by Werner Herzog, featuring Klaus Kinski in a memorable role.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A man dreams of building an opera house in the Amazon jungle.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#productionSynopsis> "Brian Sweeney Fitzcarraldo Fitzgerald, an Irishman in Peru, dreams of building an opera house in the jungle. To finance his dream, he plans to harvest rubber in a remote area, involving the transport of a steamship over a mountain.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#promotionalInformation> "An epic tale of ambition and obsession.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#shotLog> "Filmed on location in the Amazon, known for its arduous production and stunning visuals.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Fitzcarraldo" .
+
+
+## Publication Event Instances
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_e71db945-bf31-4463-95e4-672a4bbb10c9>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A story of a man who transforms into a vigilante after witnessing a crime.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film follows the journey of a man who takes the law into his own hands to seek justice for his loved ones.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "The Avenger";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Der Rächer" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_24155f72-790d-4856-a493-211f179d8501>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "An epic tale of love and war set during World War II.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "A romance blossoms amidst the chaos of war, highlighting the resilience of the human spirit.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Love in Wartime";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Liebe im Krieg" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_63a7a64d-ce00-48f6-9880-3a2c698c662e>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A group of friends on a road trip discover hidden secrets in a small town.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Their journey takes unexpected turns as they uncover mysteries that change their lives forever.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Road to Secrets";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Straße zu Geheimnissen" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_eb62264f-700b-433a-b4b4-3c9360d826b1>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A thriller about a detective solving a series of complex murders.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The detective faces personal and professional challenges while trying to catch a serial killer.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "The Detective";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Der Detektiv" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_92dc8354-06a9-41ae-b2df-776c2e00898a>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A heartwarming tale of a family's struggle to stay together during hard times.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film showcases the strength of familial bonds and the power of love and forgiveness.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Family Ties";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Familienbande" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_db9436b0-3ee7-419b-88bd-a6d7992c95e1>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A young woman's journey to self-discovery and empowerment.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Through various trials and tribulations, she learns to embrace her true self and find her own path.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Her Journey";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Ihre Reise" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_b3988dc5-35e4-413b-9b0c-58bd4e5c4f2b>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A documentary exploring the life and work of a renowned artist.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film delves into the artist's creative process and the impact of their work on society.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "The Artist's Life";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Das Leben des Künstlers" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_e3d68bb0-1ac7-45f4-8945-619bbcf79cd7>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A comedic adventure of two friends who start a food truck business.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Their journey is filled with hilarious mishaps and unexpected successes.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Food Truck Frenzy";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Essenswagen-Wahnsinn" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_1f46f4f2-de80-4a7b-8bbe-6e4002bd6900>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A historical drama depicting the rise and fall of a powerful dynasty.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The story traces the family's influence over generations and their ultimate downfall.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "The Dynasty";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Die Dynastie" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_7c76d43d-d1d3-45d9-a4ed-9f6130c415c2>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A sci-fi thriller about a future where humans and robots coexist.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film explores the complexities of human-robot relationships and the ethical dilemmas they present.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Future World";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Zukunftswelt" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_7c3aa8fe-9ee3-487a-9292-bebc03c75cb4>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A story of resilience and hope in the face of natural disaster.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The characters navigate the aftermath of a catastrophic event, finding strength in community and solidarity.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "After the Storm";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Nach dem Sturm" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_f67e106e-e9d1-46ba-8542-fd2da5acbd84>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A psychological thriller about a woman's struggle with her inner demons.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film portrays her journey to overcome mental health challenges and find peace.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Inner Demons";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Innere Dämonen" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_0d44490e-9144-4f67-9783-5c56f8ec08f0>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "An inspirational story of a young athlete's rise to fame.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film highlights the dedication, sacrifices, and triumphs of the protagonist.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Against All Odds";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Gegen alle Widrigkeiten" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_8b0315be-6c65-48f1-84af-27aa58cceb83>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A romantic comedy about two people from different worlds finding love.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "Despite their differences, they discover that love can bridge any gap.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Unexpected Love";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Unerwartete Liebe" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_b2f23f11-e12f-4ded-ada7-af6be3d16402>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A biographical film about a pioneering scientist's contributions to their field.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film showcases their groundbreaking work and the challenges they faced.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "The Pioneer";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Der Pionier" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_cb99df40-77c4-4eb2-bb41-d69904057f2f>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A coming-of-age story set in a small rural town.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The protagonist navigates the trials of adolescence while discovering their true identity.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Small Town Dreams";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Kleinstadtträume" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_fd4903a9-662e-4a90-9557-dee078cf2d20>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A horror film about a haunted house with a dark past.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The new residents must uncover the secrets of the house to survive.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Haunted";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Heimgesucht" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_331236ea-1b08-4a5e-b58e-182d62eb5c54>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A musical journey of a band's rise to stardom.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film features their struggles, successes, and the power of music.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Rise of the Band";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Aufstieg der Band" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_a8664824-c40b-47e5-9f1c-fa4949d5347c>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A fantasy adventure about a quest to save a magical kingdom.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The heroes embark on a perilous journey to restore peace and harmony.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Quest for the Kingdom";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Suche nach dem Königreich" .
+
+<http://www.ebu.ch/metadata/ontologies/ebucoreplus/data/PublicationEvent_8e1c0efc-90a7-4e06-aa35-4adc55244fee>
+  a <http://www.ebu.ch/metadata/ontologies/ebucoreplus#PublicationEvent>;
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#abstract> "A drama exploring the complexities of modern relationships.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#description> "The film delves into the lives of several characters as they navigate love and loss.";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#free> "No";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#live> "Yes";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#name> "Modern Love";
+  <http://www.ebu.ch/metadata/ontologies/ebucoreplus#title> "Moderne Liebe" .
