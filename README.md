@@ -1,86 +1,87 @@
-# ENAPSO Free Platform Demo
+# ENAPSO Media Demo
 
-This repository contains demo files and setup scripts for the ENAPSO free platform, allowing you to quickly set up and explore the capabilities of the platform.
+This repository contains scripts and documentation for setting up and running the ENAPSO media demo using the ENAPSO free platform.
 
 ## Prerequisites
 
-Before running the setup scripts, ensure that you have the following prerequisites:
+Before running the setup scripts, ensure that you have the following:
 
-- Docker installed and running on your machine (version 20.10 or above)
-- Internet connection to pull the Docker image
-- Credentials for the ENAPSO free platform (username and access token)
+- Docker installed and running on your machine
+- Docker Compose installed
+- Git installed
 
-## Running the ENAPSO Free Platform
+## Getting Started
 
-1. Open your command prompt or terminal.
+1. Clone this repository to your local machine:
 
-2. Log in to the Docker registry using the following command:
    ```
-   docker login registry.innotrade.com -u [username] -p [Personal Access Token]
+   git clone https://github.com/innotrade/enapso-demo.git
    ```
-   Replace `[username]` and `[Personal Access Token]` with your ENAPSO free platform credentials.
 
-3. Pull the latest version of the ENAPSO free platform Docker image:
+2. Navigate to the cloned repository:
+
+   ```
+   cd enapso-demo
+   ```
+
+3. Pull the ENAPSO free platform Docker image:
+
    ```
    docker pull registry.innotrade.com/innotrade/enapso-together-free
    ```
 
-4. Run the Docker container:
+4. Run the ENAPSO free platform using Docker Compose:
+
    ```
-   docker run -p 80:80 registry.innotrade.com/innotrade/enapso-together-free
-   ```
-   This command maps the container's port 80 to your local machine's port 80.
-
-   If you encounter a port conflict, you can map the container's port to a different port on your host. For example:
-   ```
-   docker run -p 8080:80 registry.innotrade.com/innotrade/enapso-together-free
-   ```
-   In this case, you would access the platform via `http://localhost:8080`.
-
-5. Verify that the Docker container is running correctly by accessing the platform in your web browser:
-   - If you used the default port mapping: `http://localhost`
-   - If you used a different port (e.g., 8080): `http://localhost:8080`
-
-## Running the Setup Scripts
-
-The setup scripts automate the process of uploading the ontology, demo data, creating CRUD templates, and setting up REST routes for the ENAPSO free platform.
-
-### For macOS
-
-1. Open a terminal and navigate to the `scripts` directory of this repository.
-
-2. Run the setup script:
-   ```
-   ./setup_enapso_media_mac.sh
+   docker-compose up -d
    ```
 
-3. The script will perform the following steps:
-   - Check if the ontology and demo data files exist
-   - Upload the ontology file
-   - Upload the demo data file
-   - Create CRUD templates
-   - Create REST routes
+   This command will start the ENAPSO free platform in detached mode.
 
-4. If all steps are successful, the script will display "Setup complete!" message.
+5. Wait for the platform to start up. You can check the status of the containers using:
 
-### For Windows
-
-1. Open a command prompt and navigate to the `scripts` directory of this repository.
-
-2. Run the setup script:
    ```
-   setup_enapso_media_windows.bat
+   docker-compose ps
    ```
 
-3. The script will perform the same steps as the macOS version:
-   - Check if the ontology and demo data files exist
-   - Upload the ontology file
-   - Upload the demo data file
-   - Create CRUD templates
-   - Create REST routes
+   Once the platform is up and running, proceed to the next step.
 
-4. If all steps are successful, the script will display "Setup complete!" message.
+6. Run the setup script for your operating system:
 
-After running the setup scripts, you can explore the ENAPSO free platform and interact with the uploaded ontology and demo data using the generated CRUD templates and REST routes.
+   - For macOS and Linux:
 
-If you encounter any issues or have questions, please refer to the documentation or contact the ENAPSO support team.
+     ```
+     chmod +x scripts/setup_enapso_media.sh
+     ./scripts/setup_enapso_media.sh
+     ```
+
+   - For Windows:
+
+     ```
+     scripts\setup_enapso_media.bat
+     ```
+
+   The setup script will perform the following tasks:
+   - Upload the ontology file (`ontologies/ebucoreplus_ontology.ttl`)
+   - Upload the demo data file (`demo-data/editorialObject_demoData.ttl`)
+   - Create CRUD templates for the `EditorialObject` class
+   - Set up REST routes for the CRUD operations
+
+7. Once the setup script completes successfully, you can access the ENAPSO media demo using the following URLs:
+
+   - ENAPSO Platform: `http://localhost/enapso-dev/`
+   - GraphDB Management API: `http://localhost/enapso-dev/graphdb-management/`
+   - View Management API: `http://localhost/enapso-dev/view-management/`
+
+## Repository Structure
+
+The repository is organized as follows:
+
+- `ontologies/`: Contains the ontology file (`ebucoreplus_ontology.ttl`)
+- `demo-data/`: Contains the demo data file (`editorialObject_demoData.ttl`)
+- `scripts/`: Contains the setup scripts for macOS/Linux and Windows
+- `docker-compose.yml`: Docker Compose configuration file for running the ENAPSO free platform
+
+## Troubleshooting
+
+If you encounter any issues during the setup process, please refer to the ENAPSO documentation or contact the ENAPSO support team for assistance.
