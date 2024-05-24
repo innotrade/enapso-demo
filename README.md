@@ -72,8 +72,8 @@ Before running the setup scripts, ensure that you have the following:
 
      ```
      cd scripts
-     chmod +x setup_enapso_media_mac.sh
-     ./setup_enapso_media_mac.sh
+     chmod +x setup_enapso_media.sh
+     ./setup_enapso_media.sh
      ```
 
    - For Windows:
@@ -89,11 +89,14 @@ Before running the setup scripts, ensure that you have the following:
    - Create CRUD templates for the `EditorialObject` class
    - Set up REST routes for the CRUD operations
 
-8. Once the setup script completes successfully, you can access the ENAPSO media demo using the following URLs:
+8. Once the setup script completes successfully, you can access the Swagger documentation for ENAPSO free services through your web browser:
 
-   - ENAPSO Platform: `http://localhost/enapso-dev/`
-   - GraphDB Management API: `http://localhost/enapso-dev/graphdb-management/`
-   - View Management API: `http://localhost/enapso-dev/view-management/`
+   | Service Name | Description | Access Link |
+   | --- | --- | --- |
+   | View Management Service | API documentation for View Management | [View Management Docs](http://localhost/enapso-dev/view-management/v1/api-docs/) |
+   | GraphDB Management Service | API documentation for GraphDB Management | [GraphDB Management Docs](http://localhost/enapso-dev/graphdb-management/v1/api-docs/) |
+
+For more detailed documentation and information about the ENAPSO platform, please refer to the [Setting Up ENAPSO media free](https://innotrade.atlassian.net/wiki/spaces/ENAPTOSOGETHER/pages/2232451073/Setting+Up+ENAPSO+media+free) page on the ENAPSO documentation wiki.
 
 ## Repository Structure
 
