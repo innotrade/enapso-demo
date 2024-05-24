@@ -54,13 +54,7 @@ Before running the setup scripts, ensure that you have the following:
 
    This command maps the container's port 80 to your local machine's port 80.
 
-   If you encounter a port conflict, you can map the container's internal port (80) to a different port on your host. For example, to use port 8080:
-
-   ```
-   docker run -p 8080:80 registry.innotrade.com/innotrade/enapso-together-free
-   ```
-
-5. Clone this repository to your local machine:
+5. Open a new terminal and clone this repository to your local machine:
 
    ```
    git clone https://github.com/innotrade/enapso-demo.git
@@ -77,18 +71,20 @@ Before running the setup scripts, ensure that you have the following:
    - For macOS and Linux:
 
      ```
-     chmod +x scripts/setup_enapso_media.sh
-     ./scripts/setup_enapso_media.sh
+     cd scripts
+     chmod +x setup_enapso_media_mac.sh
+     ./setup_enapso_media_mac.sh
      ```
 
    - For Windows:
 
      ```
-     scripts\setup_enapso_media.bat
+     cd scripts
+     setup_enapso_media_windows.bat
      ```
 
    The setup script will perform the following tasks:
-   - Upload the ontology file (`ontologies/ebucoreplus_ontology.ttl`)
+   - Upload the ontology file (`ontologies/ebucoreplus.owl`)
    - Upload the demo data file (`demo-data/editorialObject_demoData.ttl`)
    - Create CRUD templates for the `EditorialObject` class
    - Set up REST routes for the CRUD operations
@@ -103,7 +99,7 @@ Before running the setup scripts, ensure that you have the following:
 
 The repository is organized as follows:
 
-- `ontologies/`: Contains the ontology file (`ebucoreplus_ontology.ttl`)
+- `ontologies/`: Contains the ontology file (`ebucoreplus.owl`)
 - `demo-data/`: Contains the demo data file (`editorialObject_demoData.ttl`)
 - `scripts/`: Contains the setup scripts for macOS/Linux and Windows
 
