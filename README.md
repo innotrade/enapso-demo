@@ -72,8 +72,8 @@ Before running the setup scripts, ensure that you have the following:
 
      ```
      cd scripts
-     chmod +x setup_enapso_media.sh
-     ./setup_enapso_media.sh
+     chmod +x setup_enapso_media_mac.sh
+     ./setup_enapso_media_mac.sh
      ```
 
    - For Windows:
